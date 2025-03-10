@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git and GitHub and its remote
 This repository is built step by step in the tutorial.
 
 Now it includes changes about GitHub.
+
+We are adding a new branch to GitHub.
